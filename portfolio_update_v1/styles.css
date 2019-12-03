@@ -98,6 +98,11 @@ header .profile-image:hover {
   border-radius: 6px;
   transition: all .5s;
 }
+
+.card-image {
+  width: 100%;
+}
+
 .card:hover {
   border-color: #169ee8;
 }
